@@ -34,3 +34,6 @@ Experimentos:
 
 Uso de Copilot: Se uso para generar la estructura inicial del codigo. 
  
+Video de sustentación
+
+https://www.youtube.com/watch?v=dBtW56yxMMY
