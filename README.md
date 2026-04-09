@@ -33,3 +33,4 @@ Experimentos:
 - Cobertura: Teoricamente 100% (no funciono en MSYS2).
 
 Uso de Copilot: Se uso para generar la estructura inicial del codigo. 
+ 
